@@ -1,0 +1,78 @@
+@font-face {
+    font-family: fnaf;
+    src: url(Sixtyfour-Regular-VariableFont_BLED\,SCAN.ttf);
+}
+@font-face {
+    font-family: PT;
+    src: url(PTSerif-Regular.ttf);
+}
+header {
+    text-align: center;
+    font-family: fnaf;
+    font-style: italic;
+}
+body {
+    background-color: #B33F00;
+}
+ul {
+    text-align: center;
+}
+
+nav {
+    background-color: #FF6B1A;
+    border: 5px solid #006663;
+}
+h2, p {
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 100%;
+    max-width: max-content;
+}
+table 
+{ 
+    table-layout: fixed; 
+    width: 100%;
+}
+th, td 
+{ 
+    height: 100px;
+    border: #F29F05 10px solid;
+}
+td{
+    border: 5px solid black;
+    text-align: center; 
+    vertical-align: middle;
+}
+a {
+    color: #006663;
+    text-decoration: none;
+}
+a:hover {
+    color: #662400;
+    text-decoration: underline;
+}
+a:visited {
+    color: #662400;
+}
+body {
+    font-family: PT;
+}
+h2 {
+    text-align: center;
+}
+#uzenet {
+    resize: none;
+    margin-top: 10px;
+}
+#email {
+    margin-top: 10px;
+}
+h1 {
+    text-align: center;
+}
+#a {
+    display: flex;
+    justify-content: center;
+}

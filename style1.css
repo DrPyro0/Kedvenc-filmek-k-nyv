@@ -1,0 +1,43 @@
+@font-face{
+    font-family:fnaf;
+    src:url(Sixtyfour-Regular-VariableFont_BLED\,SCAN.ttf)
+}
+a{
+    color:#006663
+text-decoration: none;
+}
+body{background-color:#B33F00}
+header{
+   
+ text-align: center;
+background-color:#FF6B1A;
+border:5px solid #00B3AD;
+
+}
+
+h1{
+    display:flex;
+    justify-content:center;
+    font-family:fnaf;
+    font-style:italic;
+}
+#kapcsolat{
+    background-color:grey;
+}
+table{
+   
+ justify-content: center;
+ display:flex;
+}
+a:hover{
+    color: #662400;
+    text-decoration: underline;
+}
+img{
+    width:300px;
+   height:400px;
+}
+tr,td{border:1px solid black;
+    text-align:center;
+    vertical-align:middle;
+    }
